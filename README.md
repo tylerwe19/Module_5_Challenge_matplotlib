@@ -16,3 +16,5 @@
   * As mentioned, engagement spikes in late February across all communities. Further analysis should be conducted to understanding what is driving engagement so it can be harnessed to provide consistently higher levels of engagement across a longer span of time.
   * Total Fares in Rural communities spikes in April, further analysis should be conducted to understand what is driving this usage.
  --- 
+#### To view more of the analysis please view the Jupyter Notebook file:
+[PyBer_Challenge.ipynb](https://github.com/tylerwe19/Module_5_Challenge_matplotlib/blob/main/PyBer_Challenge.ipynb)
