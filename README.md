@@ -4,7 +4,7 @@
 ### In this challenge, we use pandas and matplotlib to analyze ride-sharing-service data to see customer engagement throughout different city types: rural, suburban, and urban. Through this analysis, we're hoping to identify an opportunities that can be targeted in a certain geographic area.
  ---
  ### In our analysis, we found that the highest Fare per Ride is in Rural communities while that largest sum of fares is in urban areas due to the significant increase in volume in urban areas when compared to Rural and Suburban areas. You can see this in the table below:
- 
+![Summary_Dataframe.PNG](https://github.com/tylerwe19/Module_5_Challenge_matplotlib/blob/main/Analysis/Summary_Dataframe.PNG) 
  
  
  ### We also observed how the sum of Fares fluctuated throughout the year in each type of community. As already established, given the disparity in volume, Urban areas consistently received the highest sum of fares month over month, when compared to the sum of fares Suburban and Rural areas generated. However, how each community fluctuates over the months is somewhat consistent with each other. All communities experienced a spike in total fares in late February. You can further observe the total fares over time in the graph below:
